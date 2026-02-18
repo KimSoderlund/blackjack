@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(19, 128, 52);
+}
+
+#deck {
+  background-color: rgb(194, 194, 194);
+  width: 100px;
+  height: 150px;
+}
+
+.played {
+  background-color: rgb(231, 231, 231);
+  width: 100px;
+  height: 150px;
+}
